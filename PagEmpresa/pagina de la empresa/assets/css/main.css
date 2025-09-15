@@ -1,5 +1,5 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
 
 /*
 	Dimension by HTML5 UP
@@ -266,6 +266,11 @@ input, select, textarea {
 		position: relative;
 		top: -0.5rem;
 	}
+.ROBOTO{
+	@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+   font-size: large;
+}
+
 
 	blockquote {
 		border-left: solid 4px #A0A7B0;
